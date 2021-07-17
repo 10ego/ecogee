@@ -1,0 +1,15 @@
+This archive contains information for *TF1.5 Episodic arid floodplains*, a ecosystem functional group (level 3) of the IUCN Global Ecosystem Typology (https://global-ecosystems.org/).
+
+   For online visualization and navigation:
+   =======================================
+   https://global-ecosystems.org/explore/groups/TF1.5
+
+   Data set citation:
+   =================
+   Keith, David A., Ferrer-Paris, Jose R., Nicholson, Emily, ..., Kingsford, Richard T. (2020). Indicative distribution maps for Ecological Functional Groups - Level 3 of IUCN Global Ecosystem Typology (Version 1.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3546513
+
+   Content of the archive:
+   ======================
+TF1_5_Episodic_arid_floodplains.xml      Profile text for the funcional group (XML format)
+TF1.5.IM.alt_v2.0.png      Profile map (PNG format)
+TF1.5.IM.alt_v2.0.tif      Indicative map (raster layer, GeoTIFF format)

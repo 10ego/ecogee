@@ -1,0 +1,15 @@
+This archive contains information for *MT1.3 Sandy Shorelines*, a ecosystem functional group (level 3) of the IUCN Global Ecosystem Typology (https://global-ecosystems.org/).
+
+   For online visualization and navigation:
+   =======================================
+   https://global-ecosystems.org/explore/groups/MT1.3
+
+   Data set citation:
+   =================
+   Keith, David A., Ferrer-Paris, Jose R., Nicholson, Emily, ..., Kingsford, Richard T. (2020). Indicative distribution maps for Ecological Functional Groups - Level 3 of IUCN Global Ecosystem Typology (Version 1.1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.3546513
+
+   Content of the archive:
+   ======================
+MT1_3_Sandy_shores.xml      Profile text for the funcional group (XML format)
+MT1.3.IM.grid_v1.0.png      Profile map (PNG format)
+MT1.3.IM.grid_v1.0.tif      Indicative map (raster layer, GeoTIFF format)
