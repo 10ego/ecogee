@@ -1,5 +1,12 @@
 # Computer readible ecological data
 
+## Requirements
+* python3
+  * [rasterio](https://rasterio.readthedocs.io/en/latest/installation.html)
+
+* disk space of 3G for the raw data + geojson output
+
+
 ## Quickstart
 
 1. Download all shapefiles using zdl under `scripts`
