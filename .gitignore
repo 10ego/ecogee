@@ -1,3 +1,5 @@
 __pycache__
-data/*
-geojson/*
+/data/**
+/geojson/**
+!/data/**/
+!/geojson/**/
