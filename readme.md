@@ -15,4 +15,4 @@ Converts the ecoregion shapefiles provided under [this Zenodo record](https://ze
 3. Run python script (`python processor.py`)
 
 ## Data dump
-A complete package of converted files are available here: [Dropbox link](https://www.dropbox.com/s/0ojy6xuyfzpxc4a/geojson.tar.gz?dl=0)
+A complete package of converted files are available here: [Dropbox link](https://www.dropbox.com/s/0ojy6xuyfzpxc4a/geojson.tar.gz?dl=1)
