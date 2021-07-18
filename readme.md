@@ -6,8 +6,6 @@
 
 * disk space of 3G for the raw data + geojson output
 
-* should work in most linux distro
-
 ## Quickstart
 
 1. Download all shapefiles using [zdl](https://github.com/10ego/zenodo_downloader) under `/scripts`
