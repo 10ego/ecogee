@@ -1,5 +1,7 @@
 # Ecoregion shapefile processor
 
+Converts the ecoregion shapefiles provided under https://zenodo.org/record/4018314 to a geojson format so it can be used with Google Earth Engine
+
 ## Requirements
 * python3
   * [rasterio](https://rasterio.readthedocs.io/en/latest/installation.html)
