@@ -1,4 +1,4 @@
-# Computer readible ecological data
+# Ecoregion shapefile processor
 
 ## Requirements
 * python3
