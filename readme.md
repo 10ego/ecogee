@@ -13,3 +13,6 @@ Converts the ecoregion shapefiles provided under [this Zenodo record](https://ze
 1. Download all shapefiles using [zdl](https://github.com/10ego/zenodo_downloader) under `/scripts`
 2. Unpack all data (`ls *.bz2 | xargs -n1 tar --one-top-level -xvjf`)
 3. Run python script (`python processor.py`)
+
+## Data dump
+A complete package of converted files are available here: [Dropbox link](https://www.dropbox.com/s/0ojy6xuyfzpxc4a/geojson.tar.gz?dl=0)
